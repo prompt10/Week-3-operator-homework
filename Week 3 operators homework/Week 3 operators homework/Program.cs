@@ -6,7 +6,16 @@ namespace Week_3_operators_homework
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string affiliate;
+            int password;
+            string Input1;
+            Console.Write("Please input your password: ");
+            Input1 = Console.ReadLine();
+            Console.Write("Who do you work for?: ");
+            affiliate = Console.ReadLine();
+
+            password = int.Parse(Input1);
+
         }
     }
 }
