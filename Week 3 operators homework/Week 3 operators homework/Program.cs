@@ -13,7 +13,7 @@ namespace Week_3_operators_homework
             string Input1;
             Console.Write("Please input your password: ");
             Input1 = Console.ReadLine();
-            Console.Write("Who do you work for?: ");
+            Console.Write("Who do you work for? FULL CAP ALL SHORTEN PLEASE: ");
             affiliate = Console.ReadLine();
 
             password = int.Parse(Input1);
@@ -42,13 +42,17 @@ namespace Week_3_operators_homework
             {
                 Console.Write("True, Access Granted");
             }
-            else if (affiliate == "FBI" &&  )
+            else if (affiliate == "FBI" && _6thDigit>3 && _6thDigit<8 && (_3rdDigit%2==0) && _3rdDigit!=6 && _5thDigit%2==0 )
             {
                 Console.Write("True, Access Granted");
             }
-            else if (affiliate == "NSA" &&  )
+            else if (affiliate == "NSA" && 30%_1stDigit==0 && _3rdDigit%3==0 && _3rdDigit%2!=0 && ( _1stDigit==7 || _2ndDigit == 7 || _3rdDigit == 7 || _4thDigit == 7 || _5thDigit == 7 || _6thDigit ==7 ) )
             {
                 Console.Write("True, Access Granted");
+            }
+            else if (_6thDigit>9)
+            {
+                Console.Write("False, Access Denied");
             }
             else
             {
