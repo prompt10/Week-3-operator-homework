@@ -1,0 +1,13 @@
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.exe
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.deps.json
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.runtimeconfig.json
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.runtimeconfig.dev.json
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.dll
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\bin\Debug\netcoreapp3.1\Week 3 operators homework.pdb
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.csprojAssemblyReference.cache
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.AssemblyInfoInputs.cache
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.AssemblyInfo.cs
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.csproj.CoreCompileInputs.cache
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.dll
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.pdb
+D:\Prompt\Programming stuff\Operator stuff\Week 3 operators homework\Week 3 operators homework\obj\Debug\netcoreapp3.1\Week 3 operators homework.genruntimeconfig.cache
