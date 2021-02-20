@@ -38,11 +38,11 @@ namespace Week_3_operators_homework
             //Console.WriteLine("your fifth digit is {0}", _2ndDigit);
             //Console.WriteLine("your sixth digit is {0}", _1stDigit);
 
-            if (affiliate == "CIA" && (3%_1stDigit==0) && (_2ndDigit != 1) && (_2ndDigit != 3) && (_2ndDigit != 5) && (_4thDigit >=6) && (_4thDigit != 8) )
+            if (affiliate == "CIA" && (_1stDigit%3==0) && (_2ndDigit != 1) && (_2ndDigit != 3) && (_2ndDigit != 5) && (_4thDigit >=6) && (_4thDigit != 8) )
             {
                 Console.Write("True, Access Granted");
             }
-            else if (affiliate == "FBI" && _6thDigit>3 && _6thDigit<8 && (_3rdDigit%2==0) && _3rdDigit!=6 && _5thDigit%2==0 )
+            else if (affiliate == "FBI" && _6thDigit>3 && _6thDigit<8 && (_3rdDigit%2==0) && _3rdDigit!=6 && _5thDigit%2!=0 )
             {
                 Console.Write("True, Access Granted");
             }
