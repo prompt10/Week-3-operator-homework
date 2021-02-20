@@ -31,12 +31,29 @@ namespace Week_3_operators_homework
             int _2ndDigit = ((password - ((_6thDigit * 100000) + (_5thDigit * 10000) + (_4thDigit * 1000) + (_3rdDigit * 100))) / 10);
             int _1stDigit = ((password - ((_6thDigit * 100000) + (_5thDigit * 10000) + (_4thDigit * 1000) + (_3rdDigit * 100) + (_2ndDigit * 10))));
 
-            Console.WriteLine("your first digit is {0}", _6thDigit);
-            Console.WriteLine("your second digit is {0}", _5thDigit);
-            Console.WriteLine("your third digit is {0}", _4thDigit);
-            Console.WriteLine("your forth digit is {0}", _3rdDigit);
-            Console.WriteLine("your fifth digit is {0}", _2ndDigit);
-            Console.WriteLine("your sixth digit is {0}", _1stDigit);
+            //Console.WriteLine("your first digit is {0}", _6thDigit);
+            //Console.WriteLine("your second digit is {0}", _5thDigit);
+            //Console.WriteLine("your third digit is {0}", _4thDigit);
+            //Console.WriteLine("your forth digit is {0}", _3rdDigit);
+            //Console.WriteLine("your fifth digit is {0}", _2ndDigit);
+            //Console.WriteLine("your sixth digit is {0}", _1stDigit);
+
+            if (affiliate == "CIA" && (3%_1stDigit==0) && (_2ndDigit != 1) && (_2ndDigit != 3) && (_2ndDigit != 5) && (_4thDigit >=6) && (_4thDigit != 8) )
+            {
+                Console.Write("True, Access Granted");
+            }
+            else if (affiliate == "FBI" &&  )
+            {
+                Console.Write("True, Access Granted");
+            }
+            else if (affiliate == "NSA" &&  )
+            {
+                Console.Write("True, Access Granted");
+            }
+            else
+            {
+                Console.Write("False, Access Denied");
+            }
         }
     }
 }
